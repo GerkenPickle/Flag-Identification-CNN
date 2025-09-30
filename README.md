@@ -5,8 +5,8 @@ This project implements a Convolutional Neural Network (CNN) to classify country
 
 ## Files Included
 - `Flag_Classification_CNN_Benchmark.ipynb` — Google Colab notebook containing all code for data preprocessing, model training, and CPU/GPU benchmarking.
-- ['Project_Description.pdf']() — A PDF describing the project goals and methodology.
-- `Final_Report.pdf` — A PDF containing full experimental results, methods, and bibliographic study.
+- [`Project_Description.pdf`](https://github.com/GerkenPickle/Flag-Identification-CNN/blob/main/Project_Description.pdf) — A PDF describing the project goals and methodology.
+- [`Final_Report.pdf`](https://github.com/GerkenPickle/Flag-Identification-CNN/blob/main/Final_Report.pdf) — A PDF containing full experimental results, methods, and bibliographic study.
 
 ## Requirements
 - Python 3.x  
@@ -19,6 +19,9 @@ This project implements a Convolutional Neural Network (CNN) to classify country
 All packages can be installed in Colab or via pip.
 
 ## Setup and Usage
+0. (Optional) You can also open and run the notebook directly in Google Colab without downloading anything:  
+[Open in Colab](https://colab.research.google.com/drive/1TjjmaYBPVGBHLphZaSEiiSN-H6qtnJ33?usp=sharing)
+**OR**
 1. Open the notebook in [Google Colab](https://colab.research.google.com/).  
 2. Run the notebook cells in order. The code will automatically download the dataset and test images.  
 3. The notebook will train, benchmark on CPU and GPU, and display results.  
@@ -39,4 +42,4 @@ The notebook reports:
 ## Notes
 - All code is designed to run in Google Colab.
 - Dataset and test images are downloaded dynamically; no additional uploads are required.
-- **Data Set Source:** [Countries Flags Images on Kaggle](https://www.kaggle.com/datasets/yusufyldz/countries-flags-images) (Downloaded automatically in Google Colab)
+- **Data Set Source:** [Countries Flags Images on Kaggle](https://www.kaggle.com/datasets/yusufyldz/countries-flags-images)
