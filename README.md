@@ -23,7 +23,9 @@ All packages can be installed in Colab or via pip.
 [Open in Colab](https://colab.research.google.com/drive/1TjjmaYBPVGBHLphZaSEiiSN-H6qtnJ33?usp=sharing)
 
 
-     **OR**
+
+      **OR**
+
 
 1. Open the notebook in [Google Colab](https://colab.research.google.com/).  
 2. Run the notebook cells in order. The code will automatically download the dataset and test images.  
