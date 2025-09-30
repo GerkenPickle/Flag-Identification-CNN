@@ -19,13 +19,11 @@ This project implements a Convolutional Neural Network (CNN) to classify country
 All packages can be installed in Colab or via pip.
 
 ## Setup and Usage
-0. (Optional) You can also open and run the notebook directly in Google Colab without downloading anything:  
+0. (Optional) You can open and run the notebook directly in Google Colab without downloading anything:  
 [Open in Colab](https://colab.research.google.com/drive/1TjjmaYBPVGBHLphZaSEiiSN-H6qtnJ33?usp=sharing)
 
 
-
       **OR**
-
 
 1. Open the notebook in [Google Colab](https://colab.research.google.com/).  
 2. Run the notebook cells in order. The code will automatically download the dataset and test images.  
