@@ -3,6 +3,8 @@
 ## Project Overview
 This project implements a Convolutional Neural Network (CNN) to classify country flags. The goal is to evaluate the performance of CPU and GPU hardware in running the model by measuring metrics such as runtime, throughput, and efficiency. Data augmentation techniques were applied to improve model robustness under various conditions.
 
+This work was completed as part of the Hardware Accelerators for Machine Learning course.
+
 ## Files Included
 - [`Flag_Classification_CNN_Benchmark.ipynb`](https://github.com/GerkenPickle/Flag-Identification-CNN/blob/main/CNN_Flag_Classifier.ipynb) — Google Colab notebook containing all code for data preprocessing, model training, and CPU/GPU benchmarking.
 - [`Project_Description.pdf`](https://github.com/GerkenPickle/Flag-Identification-CNN/blob/main/Project_Description.pdf) — A PDF describing the project goals and methodology.
